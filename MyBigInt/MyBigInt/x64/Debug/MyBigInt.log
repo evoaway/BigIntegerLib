@@ -1,0 +1,9 @@
+﻿  MyBigInt.cpp
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(13,72): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(51,63): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(65,63): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(84,63): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(176,16): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(199,28): warning C4244: =: преобразование "uint64_t" в "char", возможна потеря данных
+C:\Users\Asus\source\repos\MyBigInt\MyBigInt\MyBigInt.cpp(201,28): warning C4244: =: преобразование "uint64_t" в "char", возможна потеря данных
+  MyBigInt.vcxproj -> C:\Users\Asus\source\repos\MyBigInt\x64\Debug\MyBigInt.lib
